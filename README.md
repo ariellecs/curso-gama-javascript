@@ -1,1 +1,1 @@
-# curso-gama-javascript
+Curso de Javascript promovido pela Gama Academy durante o Hiring Coders 2
